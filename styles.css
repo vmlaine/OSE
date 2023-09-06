@@ -45,13 +45,13 @@ a:link {
     font-size: 110%;
 }
 a:visited {
-    color:fuchsia;
+    color:rgb(85, 0, 255);
     font-family: Courier;
     text-decoration: none;
     font-size: 110%;
 }
 a:hover {
-    color:antiquewhite;
+    color:rgb(153, 246, 224);
     font-family: Courier;
     font-size: 110%;
 }
