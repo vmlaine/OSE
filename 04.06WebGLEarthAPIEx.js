@@ -16,7 +16,7 @@ function initialize() {
 
 function goHome() {
    // todo
-   earth.setView([61.20295148037257,26.037461029657628]);
+   earth.setView([61.20264363861154,26.031697338485174]);
    earth.setZoom(13);
 }
 
