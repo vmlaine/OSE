@@ -1,0 +1,5 @@
+function calculateRent() {
+		
+		 // TODO
+		
+}
